@@ -37,7 +37,6 @@ Trabalho com manutenção de computadores, redes e suporte, enquanto evoluo minh
 *(Em breve mais projetos sendo publicados...)*
 
 * 🔗 Jogo da Forca
-* 🔗 
 
 ---
 
