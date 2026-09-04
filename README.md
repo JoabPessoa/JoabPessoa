@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="bannnerJoab.svg" alt="Banner Augusto Moreno" width="100%" />
+</div>
+
 # 👋 Olá! Eu sou Carlos Joab Pessoa
 
 💻 Estudante de Ciência da Computação  
