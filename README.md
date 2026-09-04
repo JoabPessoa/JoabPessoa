@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner.svg" alt="Banner de Joab" width="100%" />
-</div>
-
 # 👋 Olá! Eu sou Carlos Joab Pessoa
 
 💻 Estudante de Ciência da Computação  
